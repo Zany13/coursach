@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <title>Beer Mag</title>
+    <!-- <img src="C:\Users\podol\OneDrive\Робочий стіл\логотип.jpg" alt="PivoLove" class="logotipe"> -->
+
+</head>
+
+<body>
+
+    <div class="header-container">
+        <header>
+            <div class="searchorder">
+                <img src="C:\Users\podol\OneDrive\Робочий стіл\логотип.jpg" alt="PivoLove" class="logotipe">
+                <form id="searchorder">
+
+                    <input type="text" id="purchaseid" name="purchaseid" placeholder="Search order">
+                    <input type="submit" value="Search" <span class="material-symbols-outlined"></span>
+                </form>
+            </div>
+        </header>
+    </div>
+
+    <div class="main-wrapper">
+        <div class="nav-container">
+            <nav>
+                <form id="purchaseform">
+                    <label for="clientname">Full name:</label><br>
+                    <input type="text" id="clientname" name="clientname" class="pf"><br>
+                    <label for="city">City:</label><br>
+                    <input type="text" id="city" name="city" class="pf"><br>
+                    <label for="address">Address:</label><br>
+                    <input type="text" id="address" name="address" class="pf"><br>
+                    <label for="comment">Comment:</label><br>
+                    <input type="text" id="comment" name="comment" class="pf"><br>
+
+                    <input type="submit" value="Submit" class="Submit">
+                </form>
+            </nav>
+        </div>
+        <div class="main-container">
+            <div id="beerlist"></div>
+        </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+
+</html>

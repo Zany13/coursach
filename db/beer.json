@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Heineken",
+        "type": "Світле",
+        "alc": 5,
+        "volume": 0.5,
+        "country": "Netherlands",
+        "price": 40,
+        "brewery_id": "eb82907e-7f0d-4453-b07e-4e00763e1cf6"
+    },
+    {
+        "id": 2,
+        "name": "Corona Extra",
+        "alc": 4.6,
+        "type": "Світле",
+        "volume": 0.5,
+        "country": "Mexico",
+        "price": 70,
+        "brewery_id": "5dcaadf3-ae3f-408a-9d52-fdfaf428c747"
+    },
+    {
+        "id": 3,
+        "name": "Pilsner Urguell",
+        "type": "Світле",
+        "alc": 4.4,
+        "volume": 0.5,
+        "country": "Czech Republic",
+        "price": 60,
+        "brewery_id": "de0da44e-8a09-4e8d-8b3a-aca03b39cc23"
+    },
+    {
+        "id": 4,
+        "name": "Львівське 1715",
+        "type": "Світле",
+        "alc": 4.5,
+        "volume": 0.48,
+        "country": "Ukraine",
+        "price": 30,
+        "brewery_id": "de0da44e-8a09-4e8d-8b3a-aca03b39cc23"
+    },
+    {
+        "id": 5,
+        "name": "Оболонь",
+        "type": "Світле",
+        "alc": 4.5,
+        "volume": 0.5,
+        "country": "Ukraine",
+        "price": 30,
+        "brewery_id": "de0da44e-8a09-4e8d-8b3a-aca03b39cc23"
+    },
+    {
+        "id": 6,
+        "name": "Budweiser dark",
+        "type": "Темне",
+        "alc": 5,
+        "volume": 0.5,
+        "country": "USA",
+        "price": 53,
+        "brewery_id": "5dcaadf3-ae3f-408a-9d52-fdfaf428c747"
+    },
+    {
+        "id": 7,
+        "name": "Leffe Brune",
+        "type": "Темне",
+        "alc": 6.5,
+        "volume": 0.33,
+        "country": "Belgium",
+        "price": 67,
+        "brewery_id": "eb82907e-7f0d-4453-b07e-4e00763e1cf6"
+    },
+    {
+        "id": 8,
+        "name": "Guinness Draught",
+        "type": "Темне",
+        "alc": 4.2,
+        "volume": 0.5,
+        "country": "Ireland",
+        "price": 100,
+        "brewery_id": "b82b05d8-ca46-4954-b9a9-bb91a98406e5"
+    },
+    {
+        "id": 9,
+        "name": "Stella Artois",
+        "type": "Темне",
+        "alc": 4.7,
+        "volume": 0.5,
+        "country": "Belgium",
+        "price": 60,
+        "brewery_id": "de0da44e-8a09-4e8d-8b3a-aca03b39cc23"
+    },
+    {
+        "id": 10,
+        "name": "Krusovice",
+        "type": "Світле",
+        "alc": 5,
+        "volume": 0.5,
+        "country": "Czech Republic",
+        "price": 50,
+        "brewery_id": "de0da44e-8a09-4e8d-8b3a-aca03b39cc23"
+    }
+]
